@@ -72,9 +72,9 @@ With over **120 clients** and deep experience in **Python**, **SQL**, and **Mong
 
 ### Personnel Management Interface
 ![Personnel Overview](https://cdn.discordapp.com/attachments/1359957985681477852/1361377329917460751/IMG_6624.png?ex=681449b0&is=6812f830&hm=4cc0175798f7fdee4a1bfb50091dff5e55c45a0e2a61448f00b563bea4d9df55&)
-![Flight Dashboard](https://cdn.discordapp.com/attachments/1359957985681477852/1361377330538348675/IMG_6625.png?ex=681449b0&is=6812f830&hm=98314f17ac65e0be356d482576078ff76ab4bf591abe941410991fdffaecc91d&)
+![Personnel Overview](https://cdn.discordapp.com/attachments/1359957985681477852/1361377330538348675/IMG_6625.png?ex=681449b0&is=6812f830&hm=98314f17ac65e0be356d482576078ff76ab4bf591abe941410991fdffaecc91d&)
 
 ### Flight Scheduling & Dashboard
-test
+![Flight Bashboard](https://media.discordapp.net/attachments/1229064061006774302/1336110294421999788/ScreenRecording_02-03-2025_23-24-28_1.mov?ex=6813fe2d&is=6812acad&hm=483071efde544605cd304b8573a8aac292d47f017fc9b1dd4e807083b7d8ba0b&)
 
 </details>
