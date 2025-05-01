@@ -61,7 +61,7 @@ With over **44 lifetime clients** and deep experience in **Python**, **SQL**, an
 ## ✅ Why Work With Me?
 
 - 2+ years of professional bot development
-- 120+ satisfied clients and growing
+- 44+ satisfied clients and growing
 - Modular, scalable systems tailored to *your* airline's workflow
 - Full support before, during, and after delivery
 
