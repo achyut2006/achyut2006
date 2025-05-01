@@ -75,6 +75,7 @@ With over **120 clients** and deep experience in **Python**, **SQL**, and **Mong
 ![Personnel Overview](https://cdn.discordapp.com/attachments/1359957985681477852/1361377330538348675/IMG_6625.png?ex=681449b0&is=6812f830&hm=98314f17ac65e0be356d482576078ff76ab4bf591abe941410991fdffaecc91d&)
 
 ### Flight Scheduling & Dashboard
+# Click image to play video.
 [![Flight Bashboard](https://cdn.discordapp.com/attachments/1352025497957175377/1367444944993652829/IMG_0854.png?ex=68149bd8&is=68134a58&hm=2ca047c441a95dd68b8df5db6764d484c9d8e3a826f726f40740a10096f4e3b5&)](https://media.discordapp.net/attachments/1229064061006774302/1336110294421999788/ScreenRecording_02-03-2025_23-24-28_1.mov?ex=6813fe2d&is=6812acad&hm=483071efde544605cd304b8573a8aac292d47f017fc9b1dd4e807083b7d8ba0b&)
 
 </details>
