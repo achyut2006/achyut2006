@@ -68,6 +68,12 @@ With over **120 clients** and deep experience in **Python**, **SQL**, and **Mong
 ---
 
 <details>
-<summary><strong>🖼️ Screenshots / Previews</strong></summary>
+<summary><strong>📸 Screenshots & Demos</strong></summary>
 
-> You can include screenshots here using GitHub’s image upload or markdown:
+### Personnel Management Interface
+![Personnel Overview](https://cdn.discordapp.com/attachments/1359957985681477852/1361377329917460751/IMG_6624.png?ex=681449b0&is=6812f830&hm=4cc0175798f7fdee4a1bfb50091dff5e55c45a0e2a61448f00b563bea4d9df55&)
+
+### Flight Scheduling & Dashboard
+![Flight Dashboard](https://cdn.discordapp.com/attachments/1359957985681477852/1361377330538348675/IMG_6625.png?ex=681449b0&is=6812f830&hm=98314f17ac65e0be356d482576078ff76ab4bf591abe941410991fdffaecc91d&)
+
+</details>
