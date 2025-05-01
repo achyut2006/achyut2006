@@ -10,7 +10,7 @@
 
 Hi! I’m **Achyut**, an 18-year-old developer from **Germany**. For the past **2+ years**, I’ve been building powerful Discord bots for the **ro-aviation** community.
 
-With over **120 clients** and deep experience in **Python**, **SQL**, and **MongoDB**, I create automation systems that manage your airline’s entire internal structure—from personnel to flights to training.
+With over **44 lifetime clients** and deep experience in **Python**, **SQL**, and **MongoDB**, I create automation systems that manage your airline’s entire internal structure—from personnel to flights to training.
 
 ---
 
