@@ -1,81 +1,42 @@
-# Achyut – Discord Bot Developer
+# Hey there, I'm Achyut!
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
----
+I'm an 18-year-old developer based in **Germany**, passionate about backend development, automation, and data. I enjoy building systems that are both functional and scalable.
 
 ## About Me
 
-Hi! I’m **Achyut**, an 18-year-old developer from **Germany**. For the past **2+ years**, I’ve been building powerful Discord bots for the **ro-aviation** community.
+- **Name:** Achyut  
+- **Age:** 18  
+- **Location:** Germany  
+- **Languages:** English, German, Hindi  
+- **Future Plans:** Pursuing a **Bachelor's degree in Data Science and Artificial Intelligence**
 
-With over **44 lifetime clients** and deep experience in **Python**, **SQL**, and **MongoDB**, I create automation systems that manage your airline’s entire internal structure—from personnel to flights to training.
+## Tech Stack
 
----
+### Backend
+- **Python** – My primary language for scripting, automation, and backend development  
+- **Django** (Basics) – For simple web applications and admin panels  
+- **Flask** (Basics) – Lightweight APIs and microservices
 
-<details>
-<summary><strong>✈️ Personnel Management</strong></summary>
+### Databases
+- **MySQL** – Relational database design, queries, and optimization  
+- **MongoDB** – NoSQL operations for flexible and fast data storage
 
-- Custom user profiles with department, position, rank, and activity data.
-- Staff progress tracking including warnings, suspensions, and point balances.
-- Secure role-based permission logic tied to your server roles.
-- Full audit trail of changes and rank movements.
-- Support for salary systems, leave tracking, and more.
+### Web Development
+- **HTML & CSS** – Basic layout and styling for web interfaces
 
-</details>
+## Current Focus
+- Building Discord bots powered by MySQL  
+- Creating admin panels with basic frontends  
+- Expanding skills in Django, Flask, and data-driven development  
+- Preparing for a future career in **Data Science and AI**
 
-<details>
-<summary><strong>🛫 Flight Operations</strong></summary>
-
-- Schedule and manage hosted flights with dynamic crew assignments.
-- Auto-checking of roles (captain, FO, purser, ground crew, etc.)
-- Track flight performance and log points into personnel profiles.
-- Reports, logs, and attendance generated automatically.
-- Compatible with custom point or rank-up systems.
-
-</details>
-
-<details>
-<summary><strong>🎓 Academy & Training System</strong></summary>
-
-- Host and manage training sessions with attendance and results tracking.
-- Auto-log training points and certifications.
-- Assign instructors with restricted access.
-- Sync data directly into personnel files.
-- Useful for both rank-based academies and checklist systems.
-
-</details>
+## Let's Connect
+I'm always open to new ideas, feedback, and collaborations. Feel free to get in touch!
 
 ---
 
-## ⚙️ Tech Stack
-
-- **Python (discord.py)**: Cog-based modular design.
-- **MySQL / PostgreSQL**: Efficient relational storage with normalized schema.
-- **MongoDB**: Flexible NoSQL option for documents and fast reads.
-- **Hosting**: Linux VPS deployments with uptime tracking and backups.
-
----
-
-## ✅ Why Work With Me?
-
-- 2+ years of professional bot development
-- 44+ satisfied clients and growing
-- Modular, scalable systems tailored to *your* airline's workflow
-- Full support before, during, and after delivery
-
----
-
-<details>
-<summary><strong>📸 Screenshots & Demos</strong></summary>
-
-### Personnel Management Interface
-![Personnel Overview](https://cdn.discordapp.com/attachments/1359957985681477852/1361377329917460751/IMG_6624.png?ex=681449b0&is=6812f830&hm=4cc0175798f7fdee4a1bfb50091dff5e55c45a0e2a61448f00b563bea4d9df55&)
-![Personnel Overview](https://cdn.discordapp.com/attachments/1359957985681477852/1361377330538348675/IMG_6625.png?ex=681449b0&is=6812f830&hm=98314f17ac65e0be356d482576078ff76ab4bf591abe941410991fdffaecc91d&)
-
-### Flight Scheduling & Dashboard
-Click image to play video.
-[![Flight Bashboard](https://cdn.discordapp.com/attachments/1352025497957175377/1367444944993652829/IMG_0854.png?ex=68149bd8&is=68134a58&hm=2ca047c441a95dd68b8df5db6764d484c9d8e3a826f726f40740a10096f4e3b5&)](https://media.discordapp.net/attachments/1229064061006774302/1336110294421999788/ScreenRecording_02-03-2025_23-24-28_1.mov?ex=6813fe2d&is=6812acad&hm=483071efde544605cd304b8573a8aac292d47f017fc9b1dd4e807083b7d8ba0b&)
-
-</details>
+Thanks for checking out my profile!
