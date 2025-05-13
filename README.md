@@ -11,7 +11,7 @@ I'm an 18-year-old developer based in **Germany**, passionate about backend deve
 - **Name:** Achyut  
 - **Age:** 18  
 - **Location:** Germany  
-- **Languages:** English, German, Hindi  
+- **Languages:** English, German  
 - **Future Plans:** Pursuing a **Bachelor's degree in Data Science and Artificial Intelligence**
 
 ## Tech Stack
